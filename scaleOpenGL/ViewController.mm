@@ -66,7 +66,7 @@
 }
 
 -(void)scale:(UIPinchGestureRecognizer *)sender {
-    
+    //test
     /*if([(UIPinchGestureRecognizer*)sender state] == UIGestureRecognizerStateBegan) {
         _lastScale = 1.0;
     }
